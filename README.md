@@ -7,6 +7,8 @@ I like to teach, you can ask me any questions related to Python, Java, DSA, git 
 
 I also like reading.
 
+And having a good time in this github tutorial
+
 <!--
 **aneeqedyst/aneeqedyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
